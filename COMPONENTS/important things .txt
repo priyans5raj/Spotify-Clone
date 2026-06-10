@@ -1,0 +1,11 @@
+title ke side me logo lane ke liye href="./" ./ tb use krna hai jb tum jis folder me kaam kr rhe ho uske andr bhi koi or folder ho  or usme logo ka image ho  main file ke andr koi dusra logo nhi  bh to simple logo.png likh do. 
+
+2) Webpage me dekho ki kitne divs hai jaise spotify wale me ek main div hai jiske andr 3 sub parts hai to vaise hi dekh lo  phle.
+
+3) overflow ka mtlb hota h  ki  jb ek particular div me space nhi ho or use jyada content usme hai to overflow hoga to overflow kaisa ho vo hm set kr skte hai hidden mtlb extra content hide ho jayega, scroll mtlb scroll krke dekh skte h hmlog extra content etc.
+
+4) rem se webpage responsive bnta hai or pixel me agar height hho to usko rem me convert krke likho 
+
+5) jaise sidebar me hmlog ko home or search ka height set krna tha to line height best hai hr ek line nav me change krne ka 
+
+6) jb chije oveerlap krti h  jaise isme navigation barr ke upar text overlap kr rh tha tb hmko z index use krte h
